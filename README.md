@@ -17,8 +17,6 @@ My name is Leandro Henrique, I am a Computer Science student at Universidade Est
 
 </div>
 
-<br/> 
-
 ### Contact 
 <div>
    <a href="https://www.linkedin.com/in/leandro-henrique-lima-e-silva-5527b4160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
