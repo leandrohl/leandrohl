@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Leandro Henrique, I am a Computer Science student at Universidade Estadual Paulista and a Computer Technician for Internet. I develop a scientific initiation project by Fapesp in the area of Computer Vision and Digital Image Processing. I am passionate about web development technologies, mainly in the Front-end area.
+My name is Leandro Henrique, I am studying the 3rd year of Computer Science at Universidade Estadual Paulista and I am a Computer Technician for Internet. I develop a scientific initiation project by Fapesp in the area of Computer Vision and Digital Image Processing. I am passionate about web development technologies, mainly in the Front-end area.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrohl&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
