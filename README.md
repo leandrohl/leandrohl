@@ -5,8 +5,6 @@ My name is Leandro Henrique, I am a Computer Science student at Universidade Est
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrohl&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/> 
-
 ### Languages and Tools
 <div style="display: inline_block">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
