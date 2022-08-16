@@ -1,5 +1,4 @@
 # Leandro Henrique
-## Hello, Devs!!
 
 passionate about the best frontend development technologies
 
