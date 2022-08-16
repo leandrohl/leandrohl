@@ -1,6 +1,6 @@
 # Leandro Henrique
 
-passionate about the best web development technologies
+passionate about the best frontend development technologies
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrohl&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
