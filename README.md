@@ -1,6 +1,6 @@
 # Leandro Henrique
 
-passionate about the best frontend development technologies
+Hello! I'm a software developer passionate about creating incredible digital experiences. With a strong background in web development and practical experience in challenging projects, I'm constantly seeking to learn new technologies and enhance my skills.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
