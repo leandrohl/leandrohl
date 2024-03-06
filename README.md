@@ -1,6 +1,6 @@
-# Leandro Henrique
+# Leandro Silva
 
-Hello! I'm a software developer passionate about creating incredible digital experiences. With a strong background in web development and practical experience in challenging projects, I'm constantly seeking to learn new technologies and enhance my skills.
+Olá! Sou um apaixonado pelo mundo da tecnologia, especialmente quando se trata de desenvolvimento móvel e web. Com 3 anos de atuação na área, meu objetivo é buscar constantemente maneiras de tornar a experiência do usuário mais incrível.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
