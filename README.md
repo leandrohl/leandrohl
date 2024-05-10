@@ -1,6 +1,6 @@
 # Leandro Silva
 
-Olá! Sou um apaixonado pelo mundo da tecnologia, especialmente quando se trata de desenvolvimento móvel e web. Com 3 anos de atuação na área, meu objetivo é buscar constantemente maneiras de tornar a experiência do usuário mais incrível.
+Olá! Sou um entusiasta do mundo da tecnologia, especialmente no desenvolvimento mobile e web. Com 3 anos de experiência na área, meu objetivo é proporcionar experiências incríveis aos usuários.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
