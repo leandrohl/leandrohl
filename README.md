@@ -1,6 +1,6 @@
 # Leandro Silva
 
-Olá! Sou um entusiasta do mundo da tecnologia, especialmente no desenvolvimento mobile e web. Com 3 anos de experiência na área, meu objetivo é proporcionar experiências incríveis aos usuários.
+Olá! Sou um engenheiro de software com 5 anos de atuação na área, especializado em tecnologias como React Native, React.js, Next.js, TypeScript e JavaScript. Estou constantemente buscando aprimorar minhas habilidades e conhecimentos, priorizando boas práticas de código, performance e usabilidade.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrohl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
