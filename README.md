@@ -1,12 +1,12 @@
 # Leandro Silva
 
-Olá! Sou um engenheiro de software com 5 anos de atuação na área, especializado em tecnologias para desenvolvimento mobile como React Native, Kotli, Swift, TypeScript e JavaScript. Estou constantemente buscando aprimorar minhas habilidades e conhecimentos, priorizando boas práticas de código, performance e usabilidade.
+Olá! Sou um engenheiro de software com 5 anos de atuação na área, especializado em tecnologias para desenvolvimento mobile como React Native, Kotlin, Swift, TypeScript e JavaScript. Estou constantemente buscando aprimorar minhas habilidades e conhecimentos, priorizando boas práticas de código, performance e usabilidade.
 
 
 ### Skills
 <div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" height="30" width="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="30" width="40"  />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 </div>
